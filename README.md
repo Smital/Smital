@@ -52,7 +52,11 @@ Interactive dashboard analyzing 51K+ retail sales transactions.
 🔗 https://github.com/Smital/Retail-Sales-Performance-Dashboard
 
 
+🗄 SQL Job Market Analysis
 
+Analyzed 700,000+ job postings using PostgreSQL to identify salary trends, in-demand skills, and hiring patterns.
+
+🔗 https://github.com/Smital/SQL-Job-Market-Analysis
 
 ---
 
