@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi, I'm Smital Christian 👋
 
-<!--
-**Smital/Smital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm passionate about transforming data into actionable business insights through analytics and visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm building projects in:
+
+- 📊 Microsoft Excel
+- 🗄 SQL (PostgreSQL)
+- 📈 Power BI
+- 🐍 Python
+
+---
+
+## Technical Skills
+
+### Data Analysis
+
+- Microsoft Excel
+- SQL
+- Power BI
+- Python (Learning)
+
+### Excel
+
+- PivotTables
+- PivotCharts
+- Power Query
+- Data Cleaning
+- Dashboard Design
+
+### Databases
+
+- PostgreSQL
+
+### Other Tools
+
+- Git
+- GitHub
+- Jira
+- Azure AI-900
+
+---
+
+## Featured Projects
+
+📊 Retail Sales Performance Dashboard
+
+Interactive dashboard analyzing 51K+ retail sales transactions.
+
+🔗 https://github.com/Smital/Retail-Sales-Performance-Dashboard
+
+
+
+
+---
+
+## Currently Learning
+
+- Advanced SQL
+- Power BI
+- Python for Data Analytics
+
+---
+
+## Connect with Me
+
+LinkedIn:
+https://www.linkedin.com/in/smitalchristian44/
+
+GitHub:
+https://github.com/Smital
