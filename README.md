@@ -1,4 +1,6 @@
-# Hi, I'm Smital Christian 👋
+<p align="center">
+  <img src="images/banner.png" alt="Smital Christian Banner" width="100%">
+</p>
 
 ## Aspiring Data Analyst
 
