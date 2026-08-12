@@ -22,7 +22,16 @@ Currently, I'm building projects in:
 - Microsoft Excel
 - SQL
 - Power BI
-- Python (Learning)
+- Python
+
+### Python & Data
+
+- Pandas
+- Requests
+- BeautifulSoup
+- Data Cleaning
+- Data Analysis
+- Web Data Extraction
 
 ### Excel
 
@@ -47,18 +56,38 @@ Currently, I'm building projects in:
 
 ## Featured Projects
 
-📊 Retail Sales Performance Dashboard
+### 🇨🇦 JobScope Canada – Analyst Job Market Intelligence Platform
 
-Interactive dashboard analyzing 51K+ retail sales transactions.
+Built an end-to-end job-market analytics pipeline to collect, clean, analyze, and visualize Canadian job-posting data.
 
-🔗 https://github.com/Smital/Retail-Sales-Performance-Dashboard
+- Processed **340 job postings** using Python and Pandas
+- Built a **Bronze–Silver–Gold data pipeline** for raw, cleaned, and analysis-ready data
+- Extracted technical skills from job descriptions using **Requests and BeautifulSoup**
+- Performed data-quality checks for missing values, duplicates, and record consistency
+- Analyzed analyst skill demand, location, and employment type
+- Built an interactive **Power BI dashboard** using Power Query and DAX
+- Identified **Excel, SQL, Tableau, Python, and Power BI** among the skills appearing in analyst postings
+
+**Technologies:** Python, Pandas, Requests, BeautifulSoup, Power BI, Power Query, DAX, Git, GitHub
+
+🔗 [View Project](https://github.com/Smital/JobScope-Canada-Analyst-Job-Market-Intelligence-Platform)
+
+### 📊 Retail Sales Performance Dashboard
+
+Built an interactive Excel dashboard analyzing **51K+ retail sales transactions** to identify sales trends, profitability, product performance, and regional insights.
+
+**Technologies:** Microsoft Excel, Power Query, PivotTables, PivotCharts
+
+🔗 [View Project](https://github.com/Smital/Retail-Sales-Performance-Dashboard)
 
 
-🗄 SQL Job Market Analysis
+### 🗄 SQL Job Market Analysis
 
-Analyzed 700,000+ job postings using PostgreSQL to identify salary trends, in-demand skills, and hiring patterns.
+Analyzed **700,000+ job postings** using PostgreSQL to identify salary trends, in-demand skills, and hiring patterns.
 
-🔗 https://github.com/Smital/SQL-Job-Market-Analysis
+**Technologies:** PostgreSQL, SQL, JOINs, CTEs, Views, Aggregate Functions
+
+🔗 [View Project](https://github.com/Smital/SQL-Job-Market-Analysis)
 
 ---
 
