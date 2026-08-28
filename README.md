@@ -13,6 +13,12 @@ Currently, I'm building projects in:
 - 📈 Power BI
 - 🐍 Python
 
+LinkedIn:
+https://www.linkedin.com/in/smitalchristian44/
+
+GitHub:
+https://github.com/Smital
+
 ---
 
 ## 🛠️ Tech Stack
@@ -81,11 +87,3 @@ Analyzed **700,000+ job postings** using PostgreSQL to identify salary trends, i
 - Python for Data Analytics
 
 ---
-
-## Connect with Me
-
-LinkedIn:
-https://www.linkedin.com/in/smitalchristian44/
-
-GitHub:
-https://github.com/Smital
