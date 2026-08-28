@@ -15,44 +15,27 @@ Currently, I'm building projects in:
 
 ---
 
-## Technical Skills
+## 🛠️ Tech Stack
 
-### Data Analysis
+### Data Analytics & Visualization
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-- Microsoft Excel
-- SQL
-- Power BI
-- Python
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 
 ### Python & Data
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Web_Scraping-green?style=for-the-badge)
+![Requests](https://img.shields.io/badge/Requests-Web_Data_Extraction-blue?style=for-the-badge)
 
-- Pandas
-- Requests
-- BeautifulSoup
-- Data Cleaning
-- Data Analysis
-- Web Data Extraction
-
-### Excel
-
-- PivotTables
-- PivotCharts
-- Power Query
-- Data Cleaning
-- Dashboard Design
-
-### Databases
-
-- PostgreSQL
-
-### Other Tools
-
-- Git
-- GitHub
-- Jira
-- Azure AI-900
-
----
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_AI--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## Featured Projects
 
