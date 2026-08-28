@@ -6,12 +6,12 @@
 
 I'm passionate about transforming data into actionable business insights through analytics and visualization.
 
-Currently, I'm building projects in:
+## 🛠️ Tech Stack
 
-- 📊 Microsoft Excel
-- 🗄 SQL (PostgreSQL)
-- 📈 Power BI
-- 🐍 Python
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 LinkedIn:
 https://www.linkedin.com/in/smitalchristian44/
